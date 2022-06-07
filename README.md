@@ -29,6 +29,26 @@
   - First, enter MySQL terminal to source database. Then seed the database by running "npm run seed" in terminal. Run "npm start" to start the application. Peform, GET, POST, PUT, DEL requests in Insomnia to test
 
   - [Video Link](https://drive.google.com/file/d/1bWnhn9Y7FQNPiqA1ljrXQLy5D73UlP4_/view)
+
+Example of GET request for all categories:
+
+>![GET ALL Screenshot](/images/screenshot-GETALL.png)
+
+Example of GET request for category by ID:
+
+>![GET BY ID Screenshot](/images/screenshot-GETBYID.png)
+
+Example of POST requst for category:
+
+>![POST Screenshot](/images/screenshot-POST.png)
+
+Example of PUT request for category:
+
+>![PUT Screenshot](/images/screenshot-PUT.png)
+
+Example of DELETE request for category:
+
+>![DELETE Screenshot](/images/screenshot-DELETE.png)
   
   ## License
   
